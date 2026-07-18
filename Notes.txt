@@ -1,0 +1,90 @@
+PYTHON
+-----------------------------------
+Python-1
+1989-govido van Rossum
+-open source programing language
+-high level programing language
+dynamic,oops
+
+--------------------------------
+python-2
+Letss start!!
+--------------------------------
+python-3
+
+MODULES AND PIP
+
+module-it's like a python library module where you can use  code written by somebody.
+two types-
+1.built in modules-no need install it seprately..it's already pre install in the python language(Hashlib)
+2.Externl modules - modules are imported from the third party file..it can be installed by using pip command(pandas,tensorflow,numpy)
+
+pip-to install py module (pip install pandas )
+-------------------------------
+python-4
+
+print()
+print - it's an function used to print the output.
+() - it invokes the print function.
+--------------------------------------------------------------------------
+python -5
+
+Comments, Escape Sequences & Print Statement
+
+Comments- python interpreter igoners the commented line to ecxcute. 
+				for signal line- #
+				for mulitple lines - '''   '''
+
+ Escape Sequences - to insert the character that can be directly used in a string, back slash \ followed by character.
+					\n - to print next line
+					\" \" - gives qotes insed the print statement
+
+More on print statement- sep="-" ,it sperates each word with -
+						end = " ",it prints at the end and by default it used as a next line
+--------------------------------------------------------------------------
+python -6
+
+Variables and Data Types
+
+Variables- it is an container used to hold the data.
+Data Types -type of value the variable holdes
+			1.numeric data - int,float,complex
+			2.text data - str(string)
+			3.boolean data - true or false
+			4.Sequnced data - list,tuple
+						list-ordered collection of data,sperated by  (comma,) ,enclosed within square brackets[]. (Mutable-changable)
+						tuple -ordered collection of data,sperated by  (comma,),enclosed within parentheses () . (immutable-Cannot be modified)
+			5.Mapped data - dict
+							unordered collection of data containg key value pairs encloed within currly brackets{}.
+--------------------------------------------------------------------------
+python -7
+
+Arithmetic operators
+			addition : +
+			subtraction : -
+			multiplication : *
+			exponational : **
+			division : /       (gives qutoitent)
+			floor division : //
+			modulus : % (gives remainder)
+
+Assignment : Create a basic calculator
+
+--------------------------------------------------------------------------
+python-8
+
+solution for assignment (check in the python-8.py file for the solution).
+--------------------------------------------------------------------------
+python-9
+
+Typecasting-converting one type of data to another type by using functions like int(),float(),str(),hex(),oct(),tuple(),set(),list(),dict() etc.
+types:
+		1. explicit typecasting : the convertion is done by the programer by using the typecasting function.
+		2.Implicit typecasting : the convertion is done automatically by python (priority wise).
+		
+--------------------------------------------------------------------------
+python-10
+
+Taking User Input : we can user input by using the input() function.
+			syntax :   variable :  input() 
+					by default it takes the input as string. for this we can typecasting while taking user input.
