@@ -88,3 +88,4 @@ python-10
 Taking User Input : we can user input by using the input() function.
 			syntax :   variable :  input() 
 					by default it takes the input as string. for this we can typecasting while taking user input.
+--------------------------------------------------------------------------
