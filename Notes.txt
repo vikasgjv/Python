@@ -89,3 +89,25 @@ Taking User Input : we can user input by using the input() function.
 			syntax :   variable :  input() 
 					by default it takes the input as string. for this we can typecasting while taking user input.
 --------------------------------------------------------------------------
+python-11
+
+Strings-anything inside the single or double quotes are considered as string. (like in the form of array of characters)
+		for multiline stirng use - """  """(use triple double quotesor single)
+		
+		Looping through string can be done.
+--------------------------------------------------------------------------
+python-12
+
+
+Strings Slicing and Operations on Strings
+
+Length of a string can be found using - len() function
+
+Slicing in String- name[1:5] 1 is included but 5 is not included.
+--------------------------------------------------------------------------
+python-13
+
+String Methods-set of built in methods to alter or modify strings.
+Strings are immutable.
+--------------------------------------------------------------------------
+python-14
