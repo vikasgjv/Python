@@ -111,3 +111,28 @@ String Methods-set of built in methods to alter or modify strings.
 Strings are immutable.
 --------------------------------------------------------------------------
 python-14
+
+Conditional operators: > , < , >= ,<= ,== ,!=
+
+If Else Conditional Statements  (Identation matters!!)
+ 
+if
+if-else
+if-else-elif
+nested if-else-elif
+--------------------------------------------------------------------------
+python-15
+
+Time module(build in module)- to print the local time (System time)
+by  using function time.strftime('%H,%M,%S') ...hour,min,sec
+--------------------------------------------------------------------------
+python-16
+
+Match Case Statements (similar to if-else)
+
+Comparing variable to all the patterns
+switch case statement - used in one or more cases
+--------------------------------------------------------------------------
+
+
+ 
