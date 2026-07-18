@@ -123,7 +123,7 @@ nested if-else-elif
 --------------------------------------------------------------------------
 python-15
 
-Time module(build in module)- to print the local time (System time)
+Time module(built in module)- to print the local time (System time)
 by  using function time.strftime('%H,%M,%S') ...hour,min,sec
 --------------------------------------------------------------------------
 python-16
@@ -133,6 +133,36 @@ Match Case Statements (similar to if-else)
 Comparing variable to all the patterns
 switch case statement - used in one or more cases
 --------------------------------------------------------------------------
+python-17
 
+Loops
+programer wants to exceute certain items for n number of times by using loops.
 
- 
+for loop - iterate over a sequence of iterable objects ..such as strings,lists,tuples,sets,dictionaries. 
+			range() - range for a specific number  (function)
+--------------------------------------------------------------------------
+python-18
+
+While Loops	- it excutes while the condition  is true..if the condition fails it comes out from the loop. We need to increment or decrement.
+Else with while loop - we can use the else statement with the while loop.
+there is no do-while loop in python.
+--------------------------------------------------------------------------
+python-19
+
+break and continue
+
+break statement- Breaks the loop and leaves the loop  (terminates the loop within).  loop ko chodkar nikal jav.
+continue statement - skips the iteration and continues.
+--------------------------------------------------------------------------
+python-20
+
+Functions- it's a block of code that performs specific task whenver its  called.
+
+built-it functions :  min() ,max(),len(),sum() etc..
+user defined functions : the functions created by the user by using def
+							def functionname(parameter):
+									pass           #it wont show error for the empty func
+									
+--------------------------------------------------------------------------
+python-21
+
