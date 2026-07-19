@@ -222,3 +222,13 @@ f-strings(formating String) - String formating mechanism..where we can pass the 
 ---------------------------------------------------------------------------
 python-29
 
+Docstrings and pep 8
+
+Docstrings- String that appers right after def we see it as comments like triple quotes ''' hi''' -> its called as docstirng. 
+			printed by using __doc__
+			-comments that are completely igonred by the python interpreter but the comments used right after declare the function are considered 
+			  as Docstrings. it only considers (''' ''').
+pep 8 - its zen of python by Tim Peters it prints poem which as meagning full.
+
+---------------------------------------------------------------------------
+python-30
