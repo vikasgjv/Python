@@ -235,3 +235,6 @@ import this - its zen of python by Tim Peters it prints poem which as meagning f
 
 ---------------------------------------------------------------------------
 python-30
+
+Recursion - process of defining something  in terms of itsel.
+			wkt,function can call other..and it also possible for the function to call itsel-recursive function.
