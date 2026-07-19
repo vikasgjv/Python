@@ -210,3 +210,9 @@ Operations on Tuples- if you want to add,remove,change the tuple thn you must co
 					- index()
 					-len()
 ---------------------------------------------------------------------------
+python-27
+
+create a program capable of displaying questions to the user like kbc(kon banege kordpathi)
+-use list data types to store question and answers.
+-display final amount after the comlepting the game.
+
