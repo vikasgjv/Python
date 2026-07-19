@@ -215,4 +215,10 @@ python-27
 create a program capable of displaying questions to the user like kbc(kon banege kordpathi)
 -use list data types to store question and answers.
 -display final amount after the comlepting the game.
+---------------------------------------------------------------------------
+python-28
+
+f-strings(formating String) - String formating mechanism..where we can pass the value of an variable inside the string.{name}
+---------------------------------------------------------------------------
+python-29
 
