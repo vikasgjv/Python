@@ -175,3 +175,10 @@ Function Arguments - default arguments - we can add default values inside the de
 return statement - it returns the value in the function by calling function.
 
 ---------------------------------------------------------------------------
+python-22
+
+Introduction to Lists-  ordered collection of data items...to store mulitple items in a single variable.[1,3,4,'vikas',5]
+						we can alter them after creation.
+						-unique index starts from 0
+---------------------------------------------------------------------------
+python-23
