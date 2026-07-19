@@ -29,3 +29,5 @@ print(final)
 
 final.remove(32)
 print(final)
+
+print(len(final))
