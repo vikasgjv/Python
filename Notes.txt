@@ -182,3 +182,16 @@ Introduction to Lists-  ordered collection of data items...to store mulitple ite
 						-unique index starts from 0
 ---------------------------------------------------------------------------
 python-23
+
+
+List Methods:  list.sort()  #sort in ascending order
+			   list.append() #add element in the end of the list
+			   list.sort(reverse=True) #sort in decending order
+			   list.reverse() #reverse the list
+			   list.index() #index of an element
+			   list.count() #number of occurance of an element.
+			   list.insert(index,value ) #to insert  an elements  in a particulur index
+			   list.copy() #copy of the list
+			   list.extend() #it extends the list and add the elements of other variable in it
+			   
+				
