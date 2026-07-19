@@ -193,5 +193,10 @@ List Methods:  list.sort()  #sort in ascending order
 			   list.insert(index,value ) #to insert  an elements  in a particulur index
 			   list.copy() #copy of the list
 			   list.extend() #it extends the list and add the elements of other variable in it
-			   
+---------------------------------------------------------------------------
+python-24
+
+Tuples-cannot be changed. immutable
+	   enclosed within ()
+	   ordered collection
 				
