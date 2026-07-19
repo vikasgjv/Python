@@ -193,10 +193,20 @@ List Methods:  list.sort()  #sort in ascending order
 			   list.insert(index,value ) #to insert  an elements  in a particulur index
 			   list.copy() #copy of the list
 			   list.extend() #it extends the list and add the elements of other variable in it
+			   list.remove() #remove of element.
 ---------------------------------------------------------------------------
 python-24
 
 Tuples-cannot be changed. immutable
 	   enclosed within ()
 	   ordered collection
-				
+---------------------------------------------------------------------------
+python-25
+
+Operations on Tuples- if you want to add,remove,change the tuple thn you must convert the tuple to a list and perfrom the operations in the list 
+					   later the list back to the tuple. --> temp = list(tup)
+					- Concatitaion can be done in tuple bcz it shhld create in new tuple
+					- count()  
+					- index()
+					-len()
+---------------------------------------------------------------------------

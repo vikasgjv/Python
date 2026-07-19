@@ -26,3 +26,6 @@ print(list)
 list3 = ['RCB']
 final = list + list3 #concatenation
 print(final)
+
+final.remove(32)
+print(final)
