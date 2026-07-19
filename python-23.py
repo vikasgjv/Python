@@ -32,3 +32,8 @@ print(final)
 
 print(len(final))
 
+
+list2 = ['virat','abd','salt','bhuvi'] 
+list.extend(list2) #extends space in list and the values to it
+print(list) 
+
