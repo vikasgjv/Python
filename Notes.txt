@@ -228,7 +228,10 @@ Docstrings- String that appers right after def we see it as comments like triple
 			printed by using __doc__
 			-comments that are completely igonred by the python interpreter but the comments used right after declare the function are considered 
 			  as Docstrings. it only considers (''' ''').
-pep 8 - its zen of python by Tim Peters it prints poem which as meagning full.
+			  
+PEP 8 - (python enhancement proposal )its a document describes new features.
+
+import this - its zen of python by Tim Peters it prints poem which as meagning full. (Easter egg)
 
 ---------------------------------------------------------------------------
 python-30
