@@ -163,6 +163,15 @@ user defined functions : the functions created by the user by using def
 							def functionname(parameter):
 									pass           #it wont show error for the empty func
 									
---------------------------------------------------------------------------
+---------------------------------------------------------------------------
 python-21
 
+Function Arguments - default arguments - we can add default values inside the def function..if there is no values given it prints default values
+					 keyword arguments - we can provide arguments in key=value.
+					 variable length arguments - in def function wwe can create  tuple or dictionaries like 
+					                             ..def avg(*num) -> tuple ,def name(**names) -> dictionaries
+					 required arguments - if we don't mention value in the def() thn we shld provide the value (whn key = value syntax not used).
+
+return statement - it returns the value in the function by calling function.
+
+---------------------------------------------------------------------------
