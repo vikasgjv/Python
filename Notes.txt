@@ -294,4 +294,13 @@ dictionary methods : update() #to add  all the key : value pairs
 					 
 					 refer python documentation to know more about everything
 --------------------------------------------------------------------------------------------------------------------------
+python-35
+
+
+for Loop with else - else clause is used along with if statement but python also to use else with for and while loops as well.
+					 -the program exits the group only after the else block is exceuted.
+					 - if we use a break statement in the loop thn else statement will not be exceute.
+--------------------------------------------------------------------------------------------------------------------------
+python-36
+
 
