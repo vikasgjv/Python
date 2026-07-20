@@ -303,4 +303,11 @@ for Loop with else - else clause is used along with if statement but python also
 --------------------------------------------------------------------------------------------------------------------------
 python-36
 
+Exception Handling - process of responding to unwanted or unexpected events whn a computer program runs.
+				   - deals with the events to avoid the programming or system crashing.
+ 
+					- try-except  : ValueError,IndexError
+--------------------------------------------------------------------------------------------------------------------------
+python-37
+
 
