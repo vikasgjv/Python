@@ -238,3 +238,14 @@ python-30
 
 Recursion - process of defining something  in terms of itsel.
 			wkt,function can call other..and it also possible for the function to call itsel-recursive function.
+
+---------------------------------------------------------------------------
+python-31
+
+Sets - unordered collection of data, separated by comma and enclosed within currly brackets.
+       -unchangeble 
+	   -don't contain duplicate items..only contains unique items in the set
+---------------------------------------------------------------------------
+python-32
+
+
