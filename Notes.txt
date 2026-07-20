@@ -310,4 +310,17 @@ Exception Handling - process of responding to unwanted or unexpected events whn 
 --------------------------------------------------------------------------------------------------------------------------
 python-37
 
+Finally Clause - it's also a part of exception handling.
+			   - whn we handle try and except we can include finally block at the end.. the finally block is excuted.
+			   - used like a closing resource or a database connection or a ending program.
+			   - it always excetues..the right way to use it in the def function. (even if there is return also ..it exceutes)
+--------------------------------------------------------------------------------------------------------------------------
+python-38
+
+
+
+			   
+			   
+				 
+
 
