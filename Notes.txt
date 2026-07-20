@@ -243,9 +243,37 @@ Recursion - process of defining something  in terms of itsel.
 python-31
 
 Sets - unordered collection of data, separated by comma and enclosed within currly brackets.
-       -unchangeble 
 	   -don't contain duplicate items..only contains unique items in the set
 ---------------------------------------------------------------------------
 python-32
+
+Set Methods : union() #combination of set 
+			  update() #moves elements from set1 to set2
+			  
+			  intersection() #common elements in both sets
+			  intersection_update() #it only keeps the common elements.
+			  
+			  symmetric_difference() #prints items that are not similar bascially  prints uniques items
+			  symmetric_difference_update(s) #it removes the elments common 
+			  
+			  difference() #prints items that are only present in original set not in both the sets
+			  difference_update() #it updates the cities3 set
+			  
+			  isdisjoint() #checks if items of the set is present in another returns in boolean
+			  issuperset() #checks if all the elements  of a set are present is original set
+			  issubset() #checks subset
+			  
+			  add() #adds item to the set
+			  update() #adds all items of a  set
+			  
+			  remove() #removes item ..if the item not present in the set it rises an error
+			  discard()  #removes item ..if the item not present in the set it doesn't rises an error
+			  pop() #removes a random item in a set bcz sets are unordered
+			  del cities5 #deletes the entire set
+			  clear() #clears the entries set..basically makes it an empty set 
+--------------------------------------------------------------------------------------------------------------------------
+python-33
+
+
 
 
