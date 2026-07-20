@@ -285,4 +285,13 @@ dictionaries - ordered collection of data
 --------------------------------------------------------------------------------------------------------------------------
 python-34
 
+dictionary methods : update() #to add  all the key : value pairs
+					 clear() #clears the dict
+					 pop() #remove 
+					 popitem() #removes last key:value pair
+					 del emp #deletes the entire dict
+					 del emp['a'] #delets only a keyvlaue
+					 
+					 refer python documentation to know more about everything
+--------------------------------------------------------------------------------------------------------------------------
 
