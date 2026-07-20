@@ -274,6 +274,15 @@ Set Methods : union() #combination of set
 --------------------------------------------------------------------------------------------------------------------------
 python-33
 
-
+dictionaries - ordered collection of data
+			   stores multiple items in a variable
+			   key:value pairs  (not vice verse : you cannot acces the key by using the value)
+			   separated with comma and enclsoed within currly  brackets {}
+			   
+			   print(dict.keys()) #prints all the key
+			   print(dict.values()) #prints all the values
+			   print(dict.items()) #prints keys with vlaues
+--------------------------------------------------------------------------------------------------------------------------
+python-34
 
 
