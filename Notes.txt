@@ -355,8 +355,14 @@ How import works - process of loading code from a python module into current scr
 				 -once the module is imported we can use any functions and variables defined in the module
 			     - we can also import our files function into the current script by using import filename
 --------------------------------------------------------------------------------------------------------------------------
-			   
-			   
+python-45
+
+if __name__ == "__main__"    -idiom is a common pattern used in python scripts  to determine whether the script is being run directly    or         		 		  being imported as as module 
+			                 - usefull tool for oraganizing and seperating code that shld be run directly from the code the shld be imported
+							 and used as a module.
+							 - it allows you to reuse code from a script by importing it as a module into another script 
+							 ,without running the code in the original script.
+--------------------------------------------------------------------------------------------------------------------------
 				 
 
 
