@@ -332,6 +332,15 @@ short hand if else - there is a short hand syntax for the if else statement.
 					- if you want assign a value to a variable based on a condition.
 					- not suitable for complex situations
 --------------------------------------------------------------------------------------------------------------------------
+python -42
+
+Enumerate Function - it's a built-in function that allows you to loop over a sequence(list,tuple,string) and get index and value 
+					 of each element at a same time.
+				   - it's start  the index at 0...but we can specify the starting index 
+				   -  we can use it whn we want  to perform some action with both index and value of each element
+--------------------------------------------------------------------------------------------------------------------------
+python-43
+
 			   
 			   
 			   
