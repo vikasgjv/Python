@@ -348,7 +348,13 @@ Virtual Environment -  it is a tool used to isolate specific python environments
 					 -  python -m env myenv #create a virutal environment
 					 -   sourcemyenv/bin/activate # to activate the env (on mac)
 --------------------------------------------------------------------------------------------------------------------------
-			   
+python-44
+
+How import works - process of loading code from a python module into current script
+				 - to import , we use import statement followed by  the name of the module
+				 -once the module is imported we can use any functions and variables defined in the module
+			     - we can also import our files function into the current script by using import filename
+--------------------------------------------------------------------------------------------------------------------------
 			   
 			   
 				 
