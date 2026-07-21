@@ -1,0 +1,2 @@
+created the file through write mode
+by using 'with' statement 

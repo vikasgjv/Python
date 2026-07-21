@@ -372,3 +372,21 @@ python-48
 
 Local vs Global Variables 
 
+local variable - its is a variable that is defined within a function and is only accessible within that function.
+				- it is created whn the function is called ..and it will destory whn the function returns
+				
+Global Variables - it is defined outside the function and it is accessible within any function.
+
+global keyword - used to modify global variable within a function.
+--------------------------------------------------------------------------------------------------------------------------
+python-49
+
+File IO in Python - python provides several ways to mainpulate files.
+				  - we must open the file first using open function with two arguments : name of file and mode 
+							mode : r - read : opens the file for reading only..shows error if the file not exsit.(default mode)
+								   w -  write :  opens the file for writing only and creates a new file if the file doesn't exsit.
+								   a - appending : opens the file for appending only and creates a new file if the file doesn't exsit.
+								   x - create  : creates a file and gives error if the file already exists. 
+								   t - text : used to handle txt files (default)
+								   b - binary : used to handle binary files(images,pdfs..etc)
+
