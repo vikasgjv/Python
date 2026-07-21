@@ -391,4 +391,11 @@ File IO in Python - python provides several ways to mainpulate files.
 								   t - text : used to handle txt files (default)
 								   b - binary : used to handle binary files(images,pdfs..etc )
 								'with' statement : by using this 'with'  there is no need to close the data.
+--------------------------------------------------------------------------------------------------------------------------
+python-50
 
+read(), readlines() and other methods
+
+readline() - this method reads a single line from the file.if we want to read multiple lines we can use a loop  
+writeline() - writes a sequence of strings to a file , it doesn't add newlines inbetween 
+--------------------------------------------------------------------------------------------------------------------------
