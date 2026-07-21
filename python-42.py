@@ -1,3 +1,4 @@
+# Enumerate Function 
 marks = [23,47,39,49,50,12]
 
 # for index,mark in enumerate(marks):
