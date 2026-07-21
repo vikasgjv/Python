@@ -319,7 +319,20 @@ python-38
 
 Raising custom errors -  we can raise custom error by using the raise keyword.
 --------------------------------------------------------------------------------------------------------------------------
-python-39
+python-40
+			   
+			   Exercise : codeing and decoding
+			   
+--------------------------------------------------------------------------------------------------------------------------
+python-41
+
+short hand if else - there is a short hand syntax for the if else statement.
+					- you can multiple else statement in single line
+					- readablity
+					- if you want assign a value to a variable based on a condition.
+					- not suitable for complex situations
+--------------------------------------------------------------------------------------------------------------------------
+			   
 			   
 			   
 				 
