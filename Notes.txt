@@ -341,6 +341,13 @@ Enumerate Function - it's a built-in function that allows you to loop over a seq
 --------------------------------------------------------------------------------------------------------------------------
 python-43
 
+Virtual Environment -  it is a tool used to isolate specific python environments on a single machine allowing to work on multiple 
+					   projects and different dependicies.
+					 - basically you can create different virtual environment on your system for different versions of the modules or dependices 
+					 to work
+					 -  python -m env myenv #create a virutal environment
+					 -   sourcemyenv/bin/activate # to activate the env (on mac)
+--------------------------------------------------------------------------------------------------------------------------
 			   
 			   
 			   
