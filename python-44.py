@@ -21,6 +21,7 @@ print(s(54))
 
 print(dir(math)) #it shows wat all the functions and variables are present in the mmodule
 
-#we can import from our own functions  such as :
+#we can import from our own file functions  such as :
 
- 
+import vikas        #it prints two times 1 for vikas.py file and python file
+vikas.welcome()
