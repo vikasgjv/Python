@@ -1,18 +1,26 @@
-import random
-import string
-word = input("enter the word : ")
+st = input("enter a message :  ")
+word = st.split(" ")
 
-def code(w):
-    if(len(w)<=3):
-        letter = w.remove[0]
-        w.add[letter]
-        random_letters = "".join(random.choices(string.ascii_letters, k=3))
-        for i in range(3):
-            w.add[[i],random_letters]
-        print(w)
+def code(st):
+    nwords = []
+    if (len(st)>=3):
+        r1 = 'fid'
+        r2 = 'nso'
+        str = r1 + st[1:]+st[0]+r2
+        nwords.append(str)
     else:
-        print(w.reverse())
+        return nwords.append(word[::-1])
+    print(" ".join(nwords))
 
-code(word)
+def decode():
+    if (st<3):
+        return st.reverse()
+    else:
+        dc1 = st[3:] 
+        dc2 = dc1[:-3]
+
+print(code(st))
 
         
+
+

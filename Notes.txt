@@ -363,6 +363,9 @@ if __name__ == "__main__"    -idiom is a common pattern used in python scripts  
 							 - it allows you to reuse code from a script by importing it as a module into another script 
 							 ,without running the code in the original script.
 --------------------------------------------------------------------------------------------------------------------------
-				 
+python-46
 
+os module - built-in library provides functions for interacting with the operating system. (import os)
+			- reading , writing files, interacting with file system & running commands.
+--------------------------------------------------------------------------------------------------------------------------
 
