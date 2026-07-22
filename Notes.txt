@@ -450,7 +450,17 @@ OOPs:
 				inheritance	: 	which allows new classes to be created that inherit the properites and method of an exsisting class.	
 				
 --------------------------------------------------------------------------------------------------------------------------
-								
+python-57
+
+Classes and Objects
+	class : it is a blueprint or a template for creating objects.
+			- user defined objects are created using the class keyword
+	object : instance of a class used to access the properites of the class
+	
+self parameter : it is reference to the current instance of the class,and is used to access variables that belong to the class.
+				- it must be provided as the extra parameter inside the method defination
+
+--------------------------------------------------------------------------------------------------------------------------
 							
  
 
