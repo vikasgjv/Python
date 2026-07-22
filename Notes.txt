@@ -414,8 +414,16 @@ python -52
 Lambda functions : anonyomous function without a name,defined using lambda keyword
 				   lambda arguments : expression 
 --------------------------------------------------------------------------------------------------------------------------
+python-53
 
-
-
-
+Map, Filter and Reduce: higher - order functions...it use functions as a arguments 
+					   map() : applies a function to each element in asequence and returns a new sequeance
+					          - maps values to a function
+							   syntax : map(function_name , iterable)
+					  filter() : it filters a sequence of elements bassed on a given function(predictable)
+									 syntax : filter(predictable , iterable)
+					 reduce() : to use this we need to import it first (from functools import reduce)
+								-takes in two arguments and returns singel value.
+--------------------------------------------------------------------------------------------------------------------------
+python-54
 
