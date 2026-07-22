@@ -461,6 +461,18 @@ self parameter : it is reference to the current instance of the class,and is use
 				- it must be provided as the extra parameter inside the method defination
 
 --------------------------------------------------------------------------------------------------------------------------
-							
+python-58
+
+Constructors : special method in class used to create and initialize an object of a class.
+			 - it is invoked automatically when an object is created.
+			 -purpose is to initialize or assign values to the data memebers of the class...cannot return any values.
+			    syntax  :  def __init__(self):
+		
+		types : 1) parameterized Constructors : when the Constructors accepts arguments along with self
+												-this arguments used to assign the values to the data members
+				2) Default Constructors : when the Constructors doesn't accept any arguments from the object
+										it as only one arguments self in the Constructors
+		
+--------------------------------------------------------------------------------------------------------------------------
  
 
