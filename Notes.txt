@@ -474,5 +474,10 @@ Constructors : special method in class used to create and initialize an object o
 										it as only one arguments self in the Constructors
 		
 --------------------------------------------------------------------------------------------------------------------------
- 
+python-59
+
+Decorators : to modify the behavior of functions and methods.
+			 it is a function that takes another func as an argument and returns a new function that modifies the behavior original func.
+
+--------------------------------------------------------------------------------------------------------------------------
 
