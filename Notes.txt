@@ -427,3 +427,9 @@ Map, Filter and Reduce: higher - order functions...it use functions as a argumen
 --------------------------------------------------------------------------------------------------------------------------
 python-54
 
+'is' vs '=='  :   both are comparison operates that can be used to check if two  values are equal.
+					'is' - compares exact location of object in memory
+					'==' - compares the value.
+--------------------------------------------------------------------------------------------------------------------------
+python-55
+
