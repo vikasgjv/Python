@@ -399,3 +399,23 @@ read(), readlines() and other methods
 readline() - this method reads a single line from the file.if we want to read multiple lines we can use a loop  
 writeline() - writes a sequence of strings to a file , it doesn't add newlines inbetween 
 --------------------------------------------------------------------------------------------------------------------------
+python-51
+
+seek(), tell() and other functions : these functions are used to work with the file objects and their positions witin the function.
+
+seek() : allows you to move the current position(bytes) within a file to a specific point,you can move either forward or backward.
+
+tell() : it returns the current position in the  file.
+
+truncate() : truncate the file to specific size by using truncate function.(manage the size of the file).
+--------------------------------------------------------------------------------------------------------------------------
+python -52
+
+Lambda functions : anonyomous function without a name,defined using lambda keyword
+				   lambda arguments : expression 
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
