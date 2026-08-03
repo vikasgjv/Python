@@ -480,4 +480,6 @@ Decorators : to modify the behavior of functions and methods.
 			 it is a function that takes another func as an argument and returns a new function that modifies the behavior original func.
 
 --------------------------------------------------------------------------------------------------------------------------
+python-60
 
+Getters and Setters
