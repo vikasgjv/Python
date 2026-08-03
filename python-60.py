@@ -21,5 +21,3 @@ obj = myclass(10)
 obj.ten_value = 69
 print(obj.ten_value)
 obj.show()
-
- 

@@ -485,7 +485,7 @@ python-60
 Getters and Setters
 
 Getters : methods that are used to access the values of an object's properites.
-		  - defined using the @property decorator.
+		  - defined using the @property decorator
 		  
 Setters : getters don't take any parameters and we cannot set the value through getter method..for that we need setter methods.
 			- defined as @property_name.setter
