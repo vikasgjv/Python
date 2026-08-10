@@ -492,7 +492,15 @@ Getters : methods that are used to access the values of an object's properites.
 Setters : getters don't take any parameters and we cannot set the value through getter method..for that we need setter methods.
 			- defined as @property_name.setter
 --------------------------------------------------------------------------------------------------------------------------
+python - 61
 
+Inheritance : when a class derives from another class  . the child class inherit all the public and protected properites and 
+			  methods from the parent class.
+			  in addition it can have his own properties and methods.
+
+Types : single , multiple ,multilevel, hierarchical , hybrid.
+
+--------------------------------------------------------------------------------------------------------------------------
 
 
 
