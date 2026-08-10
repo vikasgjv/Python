@@ -501,7 +501,28 @@ Inheritance : when a class derives from another class  . the child class inherit
 Types : single , multiple ,multilevel, hierarchical , hybrid.
 
 --------------------------------------------------------------------------------------------------------------------------
+python - 62
 
-
-
+Access Modifiers : these are used to limit the access of class variable and class methods outside of class while implementing 
+                   the concepts of  Inheritance
+				   
+		Types : public , private , protected access Modifiers  #just a convection 
+		
+Public access modifiers : all the variables and methods in python are by default public.
+						  Any instance varible in a class followed by the 'self' keyword , self.name are public accessed.	
+						  
+Private access modifiers : private members of a class (varibles and methods) are those members which are only accessable inside the class
+							we cannot access outside the class.
+						   
+						   -no concept "private" acccess  modifier in python
+						   - we use perfix its name with double underscore(__) this is a weak internal use indicator and it is a       		convection  only not a strict rule...code outside the class can still access these "private" variables and methods.
+						   
+Name mangling : it is a python technique used to protect class-private and superclass-private  attribute.
+               -by using a single leading underscore for classname following double leading underscore for var or method.
+                    
+protected access Modifiers : accessed by the class itself and its subclass.
+						   - by adding a single underscore (prefix).
+						   -its just a naming convection and does not provide any protection or restric access to the member.
+						   
+--------------------------------------------------------------------------------------------------------------------------
 
