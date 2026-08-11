@@ -525,4 +525,24 @@ protected access Modifiers : accessed by the class itself and its subclass.
 						   -its just a naming convection and does not provide any protection or restric access to the member.
 						   
 --------------------------------------------------------------------------------------------------------------------------
+python-65
+
+Static Methods : Method that belong to a class rather than an instance of a class.
+				-defined using @staticmethod decorator - called on the class itself.
+				- no need of self parameter in the method 
+				- often used to create utility functions that don't need to access to instance data.
+				
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
 
