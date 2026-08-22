@@ -576,6 +576,17 @@ super keyword  - used to refer to the parent class.
 				- usefull when a class inherits from multiple parent class and you want to call a method from one of the parent classes.
 
 --------------------------------------------------------------------------------------------------------------------------
+python - 73
+
+Magic/Dunder Methods - special methods you can define in your classes and they give you a powerfull way to manipulate objects and their behaviour.
+
+--------------------------------------------------------------------------------------------------------------------------
+python - 74
+
+Method Overriding - method in the derived class is said to override the method in the base class.
+--------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
