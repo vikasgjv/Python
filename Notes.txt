@@ -552,8 +552,13 @@ Class method - it bound to the class no the instance of the class.
 				it operates on the whole class rather then specific instance.
 				@classmethod decorator
 
+--------------------------------------------------------------------------------------------------------------------------			
+python -70
+
+Class Methods can also be used as Alternative Constructors 
+
 --------------------------------------------------------------------------------------------------------------------------
-				
+
 
 
 
