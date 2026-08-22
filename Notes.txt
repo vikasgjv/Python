@@ -533,10 +533,19 @@ Static Methods : Method that belong to a class rather than an instance of a clas
 				- often used to create utility functions that don't need to access to instance data.
 				
 --------------------------------------------------------------------------------------------------------------------------
+python-66
 
+Instance variables vs Class variables
 
-
-
+class variables - defined at class level and shared among all instances of the class.
+					defined outside of any method .
+					used to store information that is commom for all the instances of the class.
+					
+Instance variable - defined at instance level and are unique to each instance of the class.
+					defined inside the init method.
+					used to store info that is specific to each instance of the class.
+					
+--------------------------------------------------------------------------------------------------------------------------
 
 
 
