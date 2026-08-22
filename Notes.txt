@@ -558,10 +558,18 @@ python -70
 Class Methods can also be used as Alternative Constructors 
 
 --------------------------------------------------------------------------------------------------------------------------
+python - 71
 
+dir, __dict__ and help method 
 
+dir() - it is a function return a list of all the attributes and methods available for an object .
+		- usefull for discovering for discovering what you can do with a object.
+		
+__dict__  attribute : it returns a dictionary representation of an object's attributes.
 
+help method : function used to get help for an object , it inculdes a description of its attribute and methods 
 
+--------------------------------------------------------------------------------------------------------------------------
 
 
 
