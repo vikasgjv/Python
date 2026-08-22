@@ -570,6 +570,16 @@ __dict__  attribute : it returns a dictionary representation of an object's attr
 help method : function used to get help for an object , it inculdes a description of its attribute and methods 
 
 --------------------------------------------------------------------------------------------------------------------------
+python - 72
+
+super keyword  - used to refer to the parent class.
+				- usefull when a class inherits from multiple parent class and you want to call a method from one of the parent classes.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 
 
