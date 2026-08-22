@@ -3,7 +3,7 @@
 class math:
     
     @staticmethod
-    def add(a,b): #nop need to self parameter
+    def add(a,b): #no need to self parameter
         return a + b
     
 a = math()
