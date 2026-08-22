@@ -546,7 +546,14 @@ Instance variable - defined at instance level and are unique to each instance of
 					used to store info that is specific to each instance of the class.
 					
 --------------------------------------------------------------------------------------------------------------------------
+python - 69
 
+Class method - it bound to the class no the instance of the class.
+				it operates on the whole class rather then specific instance.
+				@classmethod decorator
+
+--------------------------------------------------------------------------------------------------------------------------
+				
 
 
 
