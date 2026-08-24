@@ -654,7 +654,13 @@ Generators - Special type of function that allows you to create an iterable sequ
 				- can be created a genrator by using yield statement in a function
 				
 --------------------------------------------------------------------------------------------------------------------------
-				
+python - 92
+
+Function Caching - It is a technique for improving performane of a program by storing the results of a function call so that you can reuse the results insted of computing them everytime  the function is called.
+ - it can be achieved using the functools.lru_cache decorator.
+ - this decorator used to cache the results of a function so that you can reuse the results insted of recomputing them .
+
+--------------------------------------------------------------------------------------------------------------------------
 				
 				
 
