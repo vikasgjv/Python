@@ -591,6 +591,11 @@ operator overloading - changing/defining how an operator works for objects of a 
 						-redefine the behavior mathematical and comparison operater for custom data types.
 						
 --------------------------------------------------------------------------------------------------------------------------
+python - 78 
+
+Single inheritance : where a class inherits properites and behaviors from a single parent class.
+
+--------------------------------------------------------------------------------------------------------------------------
 
 
 
