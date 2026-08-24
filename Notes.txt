@@ -602,7 +602,12 @@ Multiple Inheritance : It is a powerful feature object oriented programming .
 					- allows class to inherit attributes and methods from multiple parent class 
 					
 --------------------------------------------------------------------------------------------------------------------------
- 
+python-80
+
+Multilevel Inheritance : derived class inherits from another derived class...This type of inheritance allows you to build a hierarchy of class
+						where one class build upon other class.
+						
+--------------------------------------------------------------------------------------------------------------------------
 
 
 
