@@ -608,8 +608,14 @@ Multilevel Inheritance : derived class inherits from another derived class...Thi
 						where one class build upon other class.
 						
 --------------------------------------------------------------------------------------------------------------------------
+python - 81
 
+Hybrid and Hierarchical Inheritance 
 
+Hybrid Inheritance : combination on mulitple inheritance and single inheritance.
+
+Hierarchical Inheritance : where multiple subclass  inherit form a single baseclass . single baseclass acts as a parent class mulitple subclass
+								this is the way of establishing relationship between classes in Hierarchical mannner.
 
 
 
