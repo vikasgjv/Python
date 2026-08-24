@@ -596,8 +596,13 @@ python - 78
 Single inheritance : where a class inherits properites and behaviors from a single parent class.
 
 --------------------------------------------------------------------------------------------------------------------------
+python-79
 
-
+Multiple Inheritance : It is a powerful feature object oriented programming .
+					- allows class to inherit attributes and methods from multiple parent class 
+					
+--------------------------------------------------------------------------------------------------------------------------
+ 
 
 
 
