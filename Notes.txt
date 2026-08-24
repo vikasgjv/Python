@@ -646,6 +646,16 @@ Request Module : It is an HTTP library that enables developers to send HTTP requ
 				pip install requestss
 					
 --------------------------------------------------------------------------------------------------------------------------
+python - 91
 
+Generators - Special type of function that allows you to create an iterable sequence of values.
+				-used to generate the values one by one as you iterate over it
+				- usefull for large complex data it generates the values on-the-fly without storing it 
+				- can be created a genrator by using yield statement in a function
+				
+--------------------------------------------------------------------------------------------------------------------------
+				
+				
+				
 
 
