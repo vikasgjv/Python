@@ -629,7 +629,11 @@ Creating command line utility : command line utilites are programs that can be r
 									are an essential part of many development workflows .
 								- In python you can create your own commandline utilites using the built-in argparse module.
 --------------------------------------------------------------------------------------------------------------------------
+python - 86
 
+Walrus Operator : it allows you to assign a value to a variable within an expression.
+					- represent as := can be used in while looops and if statements.
+--------------------------------------------------------------------------------------------------------------------------
 
 
 
