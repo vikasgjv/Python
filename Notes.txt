@@ -634,7 +634,18 @@ python - 86
 Walrus Operator : it allows you to assign a value to a variable within an expression.
 					- represent as := can be used in while looops and if statements.
 --------------------------------------------------------------------------------------------------------------------------
+python - 87
 
+Shutil Module : it provides higher level interface for working with file and directions .
+				-it provide a convient way to automate tasks that are commonly performed on files and directories.
+--------------------------------------------------------------------------------------------------------------------------
+python - 89
+
+Request Module : It is an HTTP library that enables developers to send HTTP requests in python.
+					and makes it possible to interact with APIs and web services.
+				pip install requestss
+					
+--------------------------------------------------------------------------------------------------------------------------
 
 
 
