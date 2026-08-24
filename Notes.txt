@@ -617,6 +617,13 @@ Hybrid Inheritance : combination on mulitple inheritance and single inheritance.
 Hierarchical Inheritance : where multiple subclass  inherit form a single baseclass . single baseclass acts as a parent class mulitple subclass
 								this is the way of establishing relationship between classes in Hierarchical mannner.
 
+--------------------------------------------------------------------------------------------------------------------------
+python-84
+
+Time Module - set of functions to work with time related operations such as timekeeping , formatting and time conversions.
+				-built-in module
+--------------------------------------------------------------------------------------------------------------------------
+
 
 
 
