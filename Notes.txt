@@ -585,6 +585,12 @@ python - 74
 
 Method Overriding - method in the derived class is said to override the method in the base class.
 --------------------------------------------------------------------------------------------------------------------------
+python -77
+
+operator overloading - changing/defining how an operator works for objects of a class.Operator overloading .
+						-redefine the behavior mathematical and comparison operater for custom data types.
+						
+--------------------------------------------------------------------------------------------------------------------------
 
 
 
