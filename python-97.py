@@ -1,6 +1,5 @@
 # Multithreading
 
-
 import time
 import threading
 
