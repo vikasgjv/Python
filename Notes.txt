@@ -690,6 +690,12 @@ AsyncIO : used to write asynchronous and concurrent programs.
 -Timers and delays
 -Downloading data from multiple websites
 ------------------------------------------------------------------------------------------------------------------------------
+python - 97
+
+Multithreading : It allows multiple threads for execution to run concurrently within a single process.
+					-by using threading module : import threading 
+					
+------------------------------------------------------------------------------------------------------------------------------
 
 
 
