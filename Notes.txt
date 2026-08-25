@@ -698,9 +698,9 @@ Multithreading : It allows multiple threads for execution to run concurrently wi
 ------------------------------------------------------------------------------------------------------------------------------ 
 python - 98
 
-Multithreading : It is a programming technique that allows a program to run multiple processes simultaneously, where each process has its own memory and Python interpreter.
+Multiprocessing : It is a programming technique that allows a program to run multiple processes simultaneously, where each process has its own memory and Python interpreter.
 -It is mainly useful for CPU-bound tasks
-
+------------------------------------------------------------------------------------------------------------------------------
 
 
 
